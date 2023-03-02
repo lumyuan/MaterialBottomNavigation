@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
             addItemView(mineItem)
 
             //设置选择监听器
+            //position：位置  view：响应点击的view
             setOnItemSelectListener { position, view ->
                 val item = view as NavigationView.Item
                 binding.title.text = item.titleView.text
