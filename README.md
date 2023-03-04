@@ -1,6 +1,9 @@
 # MaterialBottomNavigation
 一个拥有非常好看的动画的底部导航栏
 
+# 提示！本项目已迁移至<a href="https://github.com/lumyuan/MaterialUX">MaterialUX<a/>
+本项目不再维护！
+
 ### jitpack暂时用不了，去release下载打包好的依赖吧
 
 # 引入依赖
